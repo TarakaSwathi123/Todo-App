@@ -1,0 +1,22 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+node_modules/
+
+dist/
+build/
+lib/
+
+lib/
+**/.DS_Store
+coverage
+
+**/.eslintcache
+
+**/node_modules
+.turbo
+**/*.txt
+**/.vscode/settings.json
