@@ -4,6 +4,8 @@ This repository contains code for Todo app with react-redux.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The project is live at https://todo-app-145f0.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
